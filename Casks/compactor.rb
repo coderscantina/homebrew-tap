@@ -1,7 +1,6 @@
-# Filled in at the first release: version from the tag, sha256 from the DMG.
 cask "compactor" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "26.11.26"
+  sha256 "fc17f4dd93f04d09bdc2a1a7094d9836b508a20874b41d1c7d152e43d8d2bf7e"
 
   url "https://github.com/coderscantina/compactor/releases/download/v#{version}/Compactor-#{version}.dmg"
   name "Compactor"
