@@ -1,6 +1,6 @@
 cask "compactor" do
-  version "26.11.26"
-  sha256 "fc17f4dd93f04d09bdc2a1a7094d9836b508a20874b41d1c7d152e43d8d2bf7e"
+  version "26.11.27"
+  sha256 "939610724561ac5c4c23e1ffe5c7cab7408a3647c7e4353805a239e2709b123f"
 
   url "https://github.com/coderscantina/compactor/releases/download/v#{version}/Compactor-#{version}.dmg"
   name "Compactor"
